@@ -1,2 +1,3 @@
 # hello-world
-Learning to use Github!
+
+I'm UltimaN3rd. I develop games as a hobby.
